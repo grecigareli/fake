@@ -1,4 +1,4 @@
 
 
 
-![](fotos/encabezado.png)
+![](encabezado/Sin título.png)
