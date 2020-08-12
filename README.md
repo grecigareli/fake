@@ -1,4 +1,2 @@
 ## Hello
-
-
 ![.](encabezado/a.png "")
